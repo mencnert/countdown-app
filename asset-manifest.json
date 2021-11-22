@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/countdown-app/static/css/main.704aad5e.chunk.css",
+    "main.css": "/countdown-app/static/css/main.e610ede6.chunk.css",
     "main.js": "/countdown-app/static/js/main.1adb52bb.chunk.js",
     "main.js.map": "/countdown-app/static/js/main.1adb52bb.chunk.js.map",
     "runtime-main.js": "/countdown-app/static/js/runtime-main.0fe23974.js",
@@ -10,13 +10,13 @@
     "static/js/3.265a1fa9.chunk.js": "/countdown-app/static/js/3.265a1fa9.chunk.js",
     "static/js/3.265a1fa9.chunk.js.map": "/countdown-app/static/js/3.265a1fa9.chunk.js.map",
     "index.html": "/countdown-app/index.html",
-    "static/css/main.704aad5e.chunk.css.map": "/countdown-app/static/css/main.704aad5e.chunk.css.map",
+    "static/css/main.e610ede6.chunk.css.map": "/countdown-app/static/css/main.e610ede6.chunk.css.map",
     "static/js/2.4f5f9ef8.chunk.js.LICENSE.txt": "/countdown-app/static/js/2.4f5f9ef8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0fe23974.js",
     "static/js/2.4f5f9ef8.chunk.js",
-    "static/css/main.704aad5e.chunk.css",
+    "static/css/main.e610ede6.chunk.css",
     "static/js/main.1adb52bb.chunk.js"
   ]
 }
